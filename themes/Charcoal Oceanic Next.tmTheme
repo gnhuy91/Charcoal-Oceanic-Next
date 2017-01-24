@@ -203,7 +203,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAC863</string>
+				<string>#d1ac61</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,7 +225,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAC863</string>
+				<string>#d1ac61</string>
 			</dict>
 		</dict>
 		<dict>
@@ -442,7 +442,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAC863</string>
+				<string>#d1ac61</string>
 			</dict>
 		</dict>
 		<dict>
@@ -519,7 +519,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAC863</string>
+				<string>#d1ac61</string>
 			</dict>
 		</dict>
 		<dict>
