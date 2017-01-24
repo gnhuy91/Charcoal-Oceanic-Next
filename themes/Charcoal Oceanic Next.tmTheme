@@ -15,9 +15,9 @@
 		<key>foreground</key>
 		<string>#65737e</string>
 		<key>selectionBackground</key>
-		<string>#44494f</string>
+		<string>#4f5b66</string>
 		<key>selectionForeground</key>
-		<string>#999999</string>
+		<string>#a7adba</string>
 	</dict>
 	<key>name</key>
 	<string>Oceanic Next</string>
@@ -31,21 +31,21 @@
 				<key>activeGuide</key>
 				<string>#FBC95A</string>
 				<key>background</key>
-				<string>#25292c</string>
+				<string>#1B2B34</string>
 				<key>caret</key>
-				<string>#cfd2d1</string>
+				<string>#afb6b4</string>
 				<key>foreground</key>
-				<string>#cfd2d1</string>
+				<string>#afb6b4</string>
 				<key>guide</key>
-				<string>#65737F</string>
+				<string>#474c53</string>
 				<key>invisibles</key>
 				<string>#474c53</string>
 				<key>lineHighlight</key>
-				<string>#343d46</string>
+				<string>#65737e55</string>
 				<key>selection</key>
-				<string>#44494f</string>
+				<string>#4f5b66</string>
 				<key>stackGuide</key>
-				<string>#44494f</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cfd2d1</string>
+				<string>#afb6b4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -89,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cfd2d1</string>
+				<string>#afb6b4</string>
 			</dict>
 		</dict>
 		<dict>
