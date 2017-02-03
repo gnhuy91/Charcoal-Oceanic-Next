@@ -171,6 +171,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Javascript Object Key</string>
+			<key>scope</key>
+			<string>source.js meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#d1ac61</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
 			<string>string, punctuation.tag.definition.string, tag.string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
